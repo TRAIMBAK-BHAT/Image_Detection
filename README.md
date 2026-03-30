@@ -1,2 +1,2 @@
-# yantra-chatbot-main
-testing pushin thr git
+Image and Video Detection for inspection
+Uses pretrained dataset
