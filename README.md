@@ -55,5 +55,7 @@ The system leverages pretrained ImageNet weights and can be extended with a comp
 ```bash
 pip install torch torchvision opencv-python pillow numpy
 
+
 ### 2. Run the script
+```bash
 python your_script_name.py
