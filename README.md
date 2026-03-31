@@ -1,2 +1,2 @@
-Image and Video Detection for inspection
-Uses pretrained dataset and trained dataset (v1 and v2 respectively)
+Image and Video Detection for inspection using pretrained models.  
+The system is further enhanced using the company’s custom-trained dataset for improved accuracy and domain-specific detection.
